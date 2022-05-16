@@ -2,7 +2,7 @@
 Repositório que contém projetos de sites utilizando o ReactJS
 
 
-### Projeto - <a href="https://github.com/MaxHenriique/Projeto-ReactJS/tree/main/nodeshop">Nodeshop</a>
+### Projeto - <a href="https://github.com/MaxHenriique/Projetos-ReactJS/tree/main/buscador-cep">Nodeshop</a>
 Realizado em aula no <a href="https://www.proa.org.br/plataforma-proa/">Instituto PROA</a> com auxílio do professor <a href="https://www.linkedin.com/in/jailson-costa-dos-santos/">Jailson Costa dos Santos</a>.
 <br>
 <br>

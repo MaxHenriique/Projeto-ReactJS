@@ -1,4 +1,4 @@
-### Projeto - <a href="https://github.com/MaxHenriique/Projeto-ReactJS/tree/main/nodeshop">Buscador Cep</a>
+### Projeto - <a href="https://github.com/MaxHenriique/Projetos-ReactJS/tree/main/buscador-cep">Buscador Cep</a>
 Realizado com suporte de um <a href="https://www.youtube.com/watch?v=oy4cbqE1_qc">video</a> no Youtube do canal <a href="https://www.youtube.com/channel/UCLc5Bq2yfs-S3Zse3ZFRMEQ">Sujeito programador</a>.
 <br>
 <br>
